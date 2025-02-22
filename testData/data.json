@@ -1,0 +1,11 @@
+{
+  "email": "testuser@example.com",
+  "password": "03126073abc",
+  "firstName": "John",
+  "lastName": "Denver",
+  "contactNumber": "1234567",
+  "countryIndex": "12",
+  "searchIndex": "0",
+  "countryName": "Sweden",
+  "companyName": "Test Company"
+}
